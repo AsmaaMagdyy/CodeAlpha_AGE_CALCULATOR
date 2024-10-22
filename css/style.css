@@ -1,0 +1,14 @@
+.size-100 {
+    width: 100px;
+}
+
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+
+}
+
+.barlow-medium {
+    font-family: "Barlow", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
